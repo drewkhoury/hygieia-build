@@ -40,3 +40,5 @@ with:
 [ERROR] For more information about the errors and possible solutions, please read the following articles:
 [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
 ```
+
+which may be related to: https://github.com/Hygieia/hygieia-api/issues/2
