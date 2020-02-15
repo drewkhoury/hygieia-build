@@ -18,6 +18,8 @@ You can run any post-build commands by creating a container from the build image
 docker run -it -v $(pwd):/tmp/hygieia-build hygieiabuild bash
 ```
 
+Note: Because some commands are failing they've been commented out in Dockerfile. Run them manually to debug or see below.
+
 # Issues
 
 Currently the following command is erroring:
